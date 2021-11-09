@@ -1,6 +1,6 @@
 - 👋 Hey! Welcome to my Github page! I am ThinkGeoduck
 AKA Zamazenta!
-- 🌱 I’m currently learning JavaScript and HTML perfectly.
+- 🌱 I’m currently learning JavaScript and Web Development perfectly.
 - 🔨 I have no active projects right now!
 - 📫 You can contact me by joining my bot's support server
 [here](https://discord.gg/xzRPYU5xe4)
