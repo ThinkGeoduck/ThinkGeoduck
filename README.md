@@ -1,6 +1,6 @@
 - 👋 Hey! Welcome to my Github page! I am ThinkGeoduck
 AKA Zamazenta!
-- 🌱 I’m currently learning JavaScript and Web Development perfectly.
+- 🌱 I’m currently learning Web Development perfectly.
 - 🔨 I have no active projects right now!
 - 💾 I create websites for FUN!
 
