@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ThinkGeoduck, AKA Zama</h1>
-<h3 align="center">Founder @ *Hypern Technologies LLC*</h3>
+<h3 align="center">Founder @ Hypern Technologies LLC</h3>
 
 - 🌱 I’m currently learning **Front-End Javascript Frameworks**
 
