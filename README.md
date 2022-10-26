@@ -2,7 +2,9 @@
 <h3><align="centre">Testing bruh!!<align="centre"><h3>
 
 # 💫 About Me:
-                                      Founder @Hypern™ <br>🌱 I’m currently learning Front-End JavaScript frameworks<br>⚡ Fun fact: I am a Digital Artist as well.<br><br>Almost all of my Repo is private cause I don't like my code being stolen.
+🌱 I’m currently learning Front-End JavaScript frameworks
+⚡ Fun fact: I am a Digital Artist as well.
+Almost all of my Repo is private cause I don't like my code being stolen.
 
 
 ## 🌐 Socials:
