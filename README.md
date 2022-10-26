@@ -1,5 +1,5 @@
 
-<h3><align="centre">Testing bruh!!<align="centre"><h3>
+<h3><align="centre">Founder @Hypern™<align="centre"><h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End JavaScript frameworks
