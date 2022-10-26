@@ -21,4 +21,4 @@ Almost all of my Repo is private cause I don't like my code being stolen.
 ![](https://github-profile-trophy.vercel.app/?username=thinkgeoduck&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thinkgeoduck&icon=7&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thinkgeoduck&icon=7&color=3)]
