@@ -1,5 +1,4 @@
-
-<h3><align="centre">Founder @Hypern™<align="centre"><h3>
+<h1>Hello, I am ThinkGeoduck25<h1>
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End JavaScript frameworks
