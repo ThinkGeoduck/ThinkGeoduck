@@ -1,4 +1,4 @@
-<h1 align="centre">Hello, I am ThinkGeoduck25<h1 align="centre">
+<h1 align="center">Hello, I am ThinkGeoduck25<h1 align="center">
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End JavaScript frameworks
