@@ -1,4 +1,5 @@
-<h1 align="center">Heya, I am ThinkGeoduck25<h1>
+<h1 align="center">Heya, I am ThinkGeoduck25<<h1>
+  <h2 align="center"> I am learning WebDev perfectly.<h2>
 <h3 align="center">Founder and CEO @ Hypern™<h3>
 
 # 💫 About Me:
