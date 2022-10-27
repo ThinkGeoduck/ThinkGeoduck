@@ -1,5 +1,4 @@
-<h1 align="center">Heya, I am ThinkGeoduck25<h1 align="center">
-<h3 align="center">Founder and CEO @ Hypern™<h3 align="center">
+<h1 align="center">Heya, I am ThinkGeoduck25<h1 align="center"><br><h3 align="center">Founder and CEO @ Hypern™<h3 align="center">
 
 # 💫 About Me:
 🌱 I’m currently learning Front-End JavaScript frameworks
