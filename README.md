@@ -1,4 +1,4 @@
-<h1 align="center">Heya, I am ThinkGeoduck25<h1>
+<h1 align="center">Heya<h1>
 <h2 align="center">Always Learning.<h2>
 
 # 💫 About Me:
