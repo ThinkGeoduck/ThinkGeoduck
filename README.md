@@ -1,90 +1,109 @@
-<h1 align="center">Hey, I'm Utkarsh 👋</h1>
-
-<h3 align="center">Always learning. Always building. Occasionally questioning why.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Utkarsh+%F0%9F%91%8B;Developer+%7C+Designer+%7C+Creator;Welcome+to+my+corner+of+GitHub" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Developer+%E2%80%A2+Designer+%E2%80%A2+Creator;Building+things+that+probably+shouldn't+exist;Currently+turning+ideas+into+reality;Figuring+it+out+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8b5cf6&height=180&section=header&text=ALWAYS%20LEARNING&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Building%20ideas%20into%20reality&descAlignY=60&descSize=16" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=600&lines=I+build+things+that+start+as+random+ideas.;Sometimes+they+actually+work.;Code.+Design.+Create.+Repeat.;Currently+building+something+new." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧬 A Little About Me
 
-```js
-const utkarsh = {
-    interests: ["Development", "Design", "Music", "Creative Projects"],
-    currentlyBuilding: ["Tipit", "Random ideas at 2 AM"],
-    philosophy: "Learn by building. Build by breaking things.",
-    status: "Probably working on something new."
-};
+```yaml
+name: Utkarsh
+username: thinkgeoduck
+identity: Developer | Designer | Builder
+
+currently:
+  building: Tipit
+  exploring: Web development, product design, and creative technology
+  experimenting: Turning random ideas into real projects
+
+interests:
+  - Startups & building products
+  - Creative coding & web design
+  - Music production
+  - Digital art & storytelling
+
+motto: "Think it. Build it. Break it. Repeat."
 ```
 
-- 🚀 Building **Tipit**, a creator monetization platform.
-- 🎨 Interested in the intersection of technology, design, and creativity.
-- 💻 I enjoy turning random ideas into actual projects.
-- 🎹 I make music, experiment with creative tools, and occasionally write.
-- 🌱 Always learning something new.
-
----
-
-## ⚡ Tech & Tools
-
-### `Development`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sqlite,jquery,npm" />
-</p>
-
-### `Design & Creative`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,gimp" />
-</p>
-
-### `Deployment & Infrastructure`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+like+building+things+from+scratch.;I+like+designing+things+that+feel+different.;I+like+exploring+ideas+that+make+people+go+%22wait%2C+what%3F%22;And+I'm+always+working+on+something." alt="About Me Animation" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sqlite,jquery,npm&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,gimp,vercel,netlify,cloudflare&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Always-Learning-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powered%20by-Caffeine-111111?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Things I'm Building
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">💸 Tipit</h3>
-<p align="center">
-A creator monetization platform built around making it easier for creators to earn from their communities.
-</p>
-<p align="center">
-<a href="https://heytipit.com"><strong>Explore Tipit ↗</strong></a>
-</p>
+<td width="50%" align="center">
+
+### 💸 Tipit
+
+A creator monetization platform built to help creators earn from their communities.
+
+<a href="https://heytipit.com">
+  <img src="https://img.shields.io/badge/Explore-Tipit-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+
 </td>
-<td width="50%">
-<h3 align="center">🌐 Web Projects</h3>
-<p align="center">
-A collection of experiments, websites, and ideas brought to life through code.
-</p>
-<p align="center">
-<a href="https://github.com/thinkgeoduck?tab=repositories"><strong>Explore Repositories ↗</strong></a>
-</p>
+<td width="50%" align="center">
+
+### 🌐 Experiments & Projects
+
+Websites, creative experiments, and random ideas brought to life through code.
+
+<a href="https://github.com/thinkgeoduck?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thinkgeoduck&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thinkgeoduck&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thinkgeoduck&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinkgeoduck&theme=midnight-purple&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgeoduck&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkgeoduck&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" width="45%" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Devoured
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thinkgeoduck/thinkgeoduck/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -92,12 +111,12 @@ A collection of experiments, websites, and ideas brought to life through code.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thinkgeoduck&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thinkgeoduck&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
 
 ---
 
-## 🌐 Find Me Around the Internet
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/thinkgeoduck25">
@@ -114,9 +133,13 @@ A collection of experiments, websites, and ideas brought to life through code.
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thinkgeoduck&label=Profile+Views&color=8b5cf6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;See+you+in+the+next+commit+%F0%9F%9A%80" alt="Footer Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thinkgeoduck&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
 </p>
